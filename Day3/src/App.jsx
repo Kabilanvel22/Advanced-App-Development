@@ -29,7 +29,6 @@ function App() {
         <Route exact path="/" element={<Home/>}/>
         <Route path="/admin/login" element={<Login/>}/>
         <Route path="/admin/register" element={<AdminSignup/>}/>
-        <Route element={<PrivateRoutes/>}>
             <Route path="/about" element={<Aboutus/>}/>
             <Route path="/contact" element={<Contact/>}/>
             <Route path="/loans" element={<Loan/>}/>
@@ -37,7 +36,6 @@ function App() {
             <Route path="/faq" element={<Faq/>}/>
             <Route path="/profile" element={<Profile/>}/>
             <Route path="/privacy" element={<Privacy/>}/>
-        </Route>
             <Route path="/admin/addloan" element={<Addloan/>}/>
             <Route path="/admin/viewloan" element={<Viewloan/>}/>
             <Route path="/admin/applications" element={<LoanApplied/>}/>
