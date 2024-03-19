@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 66.259 78.535">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #00a6fe;
+      }
+
+      .cls-3 {
+        fill: #6dccff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.704" y1="0.397" x2="0.963" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1caffd"/>
+      <stop offset="1" stop-color="#0067b6"/>
+    </linearGradient>
+  </defs>
+  <g id="shield" transform="translate(-967.401 -3124.399)">
+    <path id="Union_22" data-name="Union 22" class="cls-1" d="M33.13,0s10.541,13.478,33.13,16.49c0,0-2.711,46.083-33.13,62.045ZM0,16.489C22.589,13.478,33.13,0,33.13,0V78.534C2.711,62.572,0,16.489,0,16.489Z" transform="translate(967.4 3124.401)"/>
+    <path id="Path_921" data-name="Path 921" class="cls-2" d="M-904.6,10151.4s10.541,13.478,33.13,16.49c0,0-2.711,46.081-33.13,62.044Z" transform="translate(1905.13 -7027.001)"/>
+    <circle id="Ellipse_186" data-name="Ellipse 186" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1004.219 3151.055)"/>
+    <circle id="Ellipse_189" data-name="Ellipse 189" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1004.219 3160.09)"/>
+    <circle id="Ellipse_191" data-name="Ellipse 191" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1004.219 3169.125)"/>
+    <circle id="Ellipse_193" data-name="Ellipse 193" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1004.219 3178.161)"/>
+    <circle id="Ellipse_194" data-name="Ellipse 194" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1004.219 3187.196)"/>
+    <circle id="Ellipse_182" data-name="Ellipse 182" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1013.255 3142.019)"/>
+    <circle id="Ellipse_199" data-name="Ellipse 199" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1004.219 3142.019)"/>
+    <circle id="Ellipse_185" data-name="Ellipse 185" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1013.255 3151.055)"/>
+    <circle id="Ellipse_188" data-name="Ellipse 188" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1013.255 3160.09)"/>
+    <circle id="Ellipse_190" data-name="Ellipse 190" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1013.255 3169.125)"/>
+    <circle id="Ellipse_183" data-name="Ellipse 183" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1022.29 3142.019)"/>
+    <circle id="Ellipse_184" data-name="Ellipse 184" class="cls-3" cx="2.824" cy="2.824" r="2.824" transform="translate(1022.29 3151.055)"/>
+  </g>
+</svg>
