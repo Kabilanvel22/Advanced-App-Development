@@ -22,40 +22,7 @@ function EMICalculator() {
           <h1 className="text-2xl font-bold mb-4 ml-44">EMI Calculator</h1>
           <div className="mb-4 ml-20">
             <label className="block text-sm font-medium text-gray-700">Loan Amount</label>
-            <Slider
-              axis="x"
-              x={loanAmount}
-              xmin={10000}
-              xmax={1000000}
-              onChange={({ x }) => setLoanAmount(x)}
-            />
-            <p>{loanAmount}</p>
-          </div>
-          <div className="mb-4 ml-20">
-            <label className="block text-sm font-medium text-gray-700">Interest Rate (%)</label>
-            <Slider
-              axis="x"
-              x={interestRate}
-              xmin={0}
-              xmax={20}
-              onChange={({ x }) => setInterestRate(x)}
-            />
-            <p>{interestRate}</p>
-          </div>
-          <div className="mb-4 ml-20">
-            <label className="block text-sm font-medium text-gray-700">Loan Tenure (years)</label>
-            <Slider
-              axis="x"
-              x={loanTenure}
-              xmin={1}
-              xmax={30}
-              onChange={({ x }) => setLoanTenure(x)}
-            />
-            <p>{loanTenure}</p>
-          </div>
-          <button
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ml-20"
-            onClick={calculateEmi}
+         
           >
             Calculate EMI
           </button>
@@ -70,12 +37,7 @@ function EMICalculator() {
                   Apply
                 </button>
               </>
-            ) : ( 
-              <p className="text-lg ml-32">₹ 0 <br/> Please calculate EMI</p>
-            )}
-            <p class='mt-10 ml-5 text-gray-500'>*This is an approximate EMI calculation. The actual processing fee and rate of interest may vary. Interest rate for Personal Loan starts at 2% on a monthly basis</p>
-          </div>
-        </div>
+           
       </div>
     </div>
   );
