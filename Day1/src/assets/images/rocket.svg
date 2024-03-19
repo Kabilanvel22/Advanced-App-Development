@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 41.733 111.299">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0086cd;
+      }
+
+      .cls-2 {
+        fill: #1caffd;
+      }
+
+      .cls-3 {
+        fill: #00669b;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff27a;
+      }
+
+      .cls-6 {
+        fill: #faa754;
+      }
+
+      .cls-7 {
+        fill: #ffec3d;
+      }
+
+      .cls-8 {
+        fill: #f98a1a;
+      }
+
+      .cls-9 {
+        fill: #e7f7ff;
+      }
+
+      .cls-10 {
+        fill: #bfe9ff;
+      }
+
+      .cls-11 {
+        fill: #6dccff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.48" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1caffd"/>
+      <stop offset="1" stop-color="#0067b6"/>
+    </linearGradient>
+  </defs>
+  <g id="rocket" transform="translate(-665.067 -3263.398)">
+    <path id="Path_909" data-name="Path 909" class="cls-1" d="M-1048.13,10421.533l-8.8,13.693,3.3,11,7.214-2.567,2.69-6.6Z" transform="translate(1722 -7098.008)"/>
+    <path id="Union_23" data-name="Union 23" class="cls-2" d="M1738.638-6810.237V-6888s23.741,28.856,8.579,77.764Zm-8.578,0c-15.162-48.907,8.578-77.764,8.578-77.764v77.764Z" transform="translate(-1052.706 10151.399)"/>
+    <path id="Path_911" data-name="Path 911" class="cls-3" d="M-1052.532,10421.533l8.8,13.693-3.3,11-7.214-2.567-2.69-6.6Z" transform="translate(1750.528 -7098.008)"/>
+    <path id="Path_910" data-name="Path 910" class="cls-4" d="M-1041.17,10290.4s23.74,28.856,8.579,77.764h-8.579Z" transform="translate(1727.103 -7026.999)"/>
+    <path id="Union_25" data-name="Union 25" class="cls-5" d="M1725.219-6888h8.619v33.534C1722.833-6868.284,1725.219-6888,1725.219-6888Zm8.619,0h8.621s2.384,19.717-8.621,33.532Z" transform="translate(-1047.863 10229.163)"/>
+    <path id="Union_24" data-name="Union 24" class="cls-6" d="M1730.686-6888h5.546s1.533,12.685-5.546,21.573Zm-5.546,0h5.546v21.573C1723.606-6875.316,1725.141-6888,1725.141-6888Z" transform="translate(-1044.711 10229.162)"/>
+    <path id="Path_913" data-name="Path 913" class="cls-7" d="M-1021.989,10460s2.384,19.717-8.62,33.533V10460Z" transform="translate(1716.583 -7118.837)"/>
+    <path id="Path_915" data-name="Path 915" class="cls-8" d="M-1025.063,10460s1.534,12.684-5.545,21.572V10460Z" transform="translate(1716.583 -7118.837)"/>
+    <path id="Union_26" data-name="Union 26" class="cls-9" d="M1731.649-6888a6.649,6.649,0,0,1,6.648,6.648,6.648,6.648,0,0,1-6.648,6.648Zm-6.648,6.648a6.647,6.647,0,0,1,6.648-6.648v13.3A6.646,6.646,0,0,1,1725-6881.352Z" transform="translate(-1045.75 10170.474)"/>
+    <path id="Path_917" data-name="Path 917" class="cls-10" d="M0,0V13.3A6.648,6.648,0,0,0,6.648,6.648,6.648,6.648,0,0,0,0,0Z" transform="translate(685.898 3282.474)"/>
+    <circle id="Ellipse_181" data-name="Ellipse 181" class="cls-11" cx="2.5" cy="2.5" r="2.5" transform="translate(683 3299)"/>
+    <circle id="Ellipse_195" data-name="Ellipse 195" class="cls-11" cx="2" cy="2" r="2" transform="translate(684 3310)"/>
+    <circle id="Ellipse_196" data-name="Ellipse 196" class="cls-11" cx="1.5" cy="1.5" r="1.5" transform="translate(684 3319)"/>
+    <circle id="Ellipse_197" data-name="Ellipse 197" class="cls-11" cx="1" cy="1" r="1" transform="translate(685 3328)"/>
+    <circle id="Ellipse_198" data-name="Ellipse 198" class="cls-11" cx="0.5" cy="0.5" r="0.5" transform="translate(685 3335)"/>
+  </g>
+</svg>
