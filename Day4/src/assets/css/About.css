@@ -1,0 +1,14 @@
+.slick-slide > div {
+    margin: 0 10px;
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color:orange !important;
+  }
+
+  .about-img
+  {
+    margin-left: 44rem !important;
+    width: 5rem;
+    padding-top: 4remx;
+  }
